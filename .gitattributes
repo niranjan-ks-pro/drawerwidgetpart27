@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normaliza* linguist-vendored
+* linguist-vendored
 *.dart linguist-vendored=false
